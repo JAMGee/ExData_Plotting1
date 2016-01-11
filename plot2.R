@@ -1,5 +1,5 @@
 # Plot2.r
-# Creates a histogram using the data from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip.
+# Creates an hourly global active power usages. using the data from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip.
 # Please Note: The file household_power_consumption.txt should be in the working directory prior to starting.
 
 # Set the working directory.
